@@ -1,0 +1,13 @@
+.products{
+    position: relative;
+}
+
+
+.price{
+    
+    background-color: antiquewhite;
+    position: absolute;
+    right: 40px;
+font-weight: 400;
+    top: 0;
+}
